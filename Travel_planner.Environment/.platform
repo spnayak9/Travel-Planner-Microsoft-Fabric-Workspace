@@ -1,0 +1,12 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/fabric/gitIntegration/platformProperties/2.0.0/schema.json",
+  "metadata": {
+    "type": "Environment",
+    "displayName": "Travel_planner",
+    "description": "Environment"
+  },
+  "config": {
+    "version": "2.0",
+    "logicalId": "21653947-f504-8192-445e-028c1b5a2757"
+  }
+}

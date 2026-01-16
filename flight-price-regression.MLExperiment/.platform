@@ -1,0 +1,11 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/fabric/gitIntegration/platformProperties/2.0.0/schema.json",
+  "metadata": {
+    "type": "MLExperiment",
+    "displayName": "flight-price-regression"
+  },
+  "config": {
+    "version": "2.0",
+    "logicalId": "0adf49d3-a208-9d67-4d56-fea2b617c2ec"
+  }
+}

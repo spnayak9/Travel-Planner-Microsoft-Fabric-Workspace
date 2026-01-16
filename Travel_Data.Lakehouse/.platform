@@ -1,0 +1,11 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/fabric/gitIntegration/platformProperties/2.0.0/schema.json",
+  "metadata": {
+    "type": "Lakehouse",
+    "displayName": "Travel_Data"
+  },
+  "config": {
+    "version": "2.0",
+    "logicalId": "c64e28e2-a67c-82ba-4905-835f1c1d20a7"
+  }
+}
