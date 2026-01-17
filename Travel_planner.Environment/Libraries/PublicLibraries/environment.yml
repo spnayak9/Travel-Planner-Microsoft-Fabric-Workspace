@@ -1,0 +1,4 @@
+dependencies:
+  - pip:
+      - numpy==2.4.1
+      - tensorflow==2.20.0rc0
